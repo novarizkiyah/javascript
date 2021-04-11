@@ -1,3 +1,3 @@
-const coffee = require('./lib/coffee');
+const coffee = require('./coffe');
  
 console.log(coffee);
